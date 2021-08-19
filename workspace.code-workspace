@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Coursera/Bootstrap4/conFusion"
+		},
+		{
+			"path": "../../JPMorgan/JPMC-tech-task-1-py3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "conFusion"
+	}
+}
